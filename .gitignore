@@ -1,0 +1,5 @@
+venv/
+.vscode/
+# migrations/
+.env
+ __pycache __/
